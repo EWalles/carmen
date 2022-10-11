@@ -1,8 +1,6 @@
-# SQL Lab
+# SQL Lab - Where In The World Is Carmen Sandiego?
 
 <img src="https://i.imgur.com/OGKTx2f.jpg">
-
-# Where In The World Is Carmen Sandiego?
 
 ## Introduction
 
